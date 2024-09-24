@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.container{
+    width: 36%;
+    height: 50%;
+    background: #033240;
+    justify-content: center;
+}
+.calculator{
+    background-image: linear-gradient(rgb(5, 8, 167),rgb(148, 7, 163));
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffecd1;
+}
